@@ -37,8 +37,18 @@ I'm a developer and data enthusiast passionate about **data science**, **automat
 
 
 ---
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+#### 🐍 Snake Game  
+A retro-style snake game built with Python and Pygame.
 
-###
+[▶️ Play Snake on Replit](https://replit.com/@Udn32/Snake-Game)  
+![Snake Game](https://github.com/Udn32/Snake-Game/raw/main/preview.gif)
+
+---
+
+#### 👾 Pac-Man Clone  
+A simplified version of the legendary Pac-Man, built as a weekend project.
+
+[▶️ Play Pac-Man](https://udn32.github.io/pacman-clone)  
+![Pac-Man Game](https://github.com/Udn32/pacman-clone/raw/main/preview.gif)
+
+---
