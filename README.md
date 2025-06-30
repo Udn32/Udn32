@@ -35,3 +35,10 @@ I'm a developer and data enthusiast passionate about **data science**, **automat
 
 > “Success is not just about finishing projects — it's about building efficient, reusable, and meaningful systems.”
 
+
+---
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
