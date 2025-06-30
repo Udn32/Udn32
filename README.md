@@ -37,18 +37,19 @@ I'm a developer and data enthusiast passionate about **data science**, **automat
 
 
 ---
-#### 🐍 Snake Game  
-A retro-style snake game built with Python and Pygame.
+### 🐍 Snake Game
+![Snake Game](https://raw.githubusercontent.com/Udn32/Snake-Game/main/preview.gif)  
+> A Python remake of the classic Snake game.  
+[▶️ Play on Replit](https://replit.com/@Udn32/Snake-Game)  
+[📂 Source Code](https://github.com/Udn32/Snake-Game)
 
-[▶️ Play Snake on Replit](https://replit.com/@Udn32/Snake-Game)  
-![Snake Game](https://github.com/Udn32/Snake-Game/raw/main/preview.gif)
+---
+
+### 👾 Pac-Man Clone
+![Pac-Man](https://raw.githubusercontent.com/Udn32/Pacman-Clone/main/preview.gif)  
+> A minimalist Pac-Man clone built for fun!  
+[▶️ Play Online (GitHub Pages)](https://udn32.github.io/pacman-clone)  
+[📂 Source Code](https://github.com/Udn32/Pacman-Clone)
 
 ---
 
-#### 👾 Pac-Man Clone  
-A simplified version of the legendary Pac-Man, built as a weekend project.
-
-[▶️ Play Pac-Man](https://udn32.github.io/pacman-clone)  
-![Pac-Man Game](https://github.com/Udn32/pacman-clone/raw/main/preview.gif)
-
----
