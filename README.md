@@ -35,21 +35,3 @@ I'm a developer and data enthusiast passionate about **data science**, **automat
 
 > “Success is not just about finishing projects — it's about building efficient, reusable, and meaningful systems.”
 
-
----
-### 🐍 Snake Game
-![Snake Game](https://raw.githubusercontent.com/Udn32/Snake-Game/main/preview.gif)  
-> A Python remake of the classic Snake game.  
-[▶️ Play on Replit](https://replit.com/@Udn32/Snake-Game)  
-[📂 Source Code](https://github.com/Udn32/Snake-Game)
-
----
-
-### 👾 Pac-Man Clone
-![Pac-Man](https://raw.githubusercontent.com/Udn32/Pacman-Clone/main/preview.gif)  
-> A minimalist Pac-Man clone built for fun!  
-[▶️ Play Online (GitHub Pages)](https://udn32.github.io/pacman-clone)  
-[📂 Source Code](https://github.com/Udn32/Pacman-Clone)
-
----
-
