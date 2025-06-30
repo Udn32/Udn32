@@ -27,7 +27,7 @@ I'm a developer and data enthusiast passionate about **data science**, **automat
 
 ### 📬 Get in Touch
 
-- 📫 Email: **udn32.dev@gmail.com**  
+- 📫 Email: **rifqysyamsudin32@gmail.com**  
 - 🌐 LinkedIn: (https://www.linkedin.com/in/rifqy-syamsudin-0809b0218/)  
 - 💼 Portfolio: [GitHub Repositories](https://github.com/Udn32?tab=repositories)
 
